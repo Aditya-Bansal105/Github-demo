@@ -10,4 +10,4 @@ Original file is located at
 #Use this code for the git-demo
 #write your name
 
-name = "Aaliya Merchant"
+name = "Aditya Bansal"
